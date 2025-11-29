@@ -98,8 +98,14 @@ down frequency.
 meter fiber into the cap. Now tighten the cap by screwing it back.
 
 ▪ Observe the detected signal at post ANALOG OUT on oscilloscope
----
 
+<img width="532" height="247" alt="image" src="https://github.com/user-attachments/assets/e36913ec-c592-4f4d-b85b-0becb1261fdb" />
+
+
+<img width="573" height="230" alt="image" src="https://github.com/user-attachments/assets/9f6901ed-1772-4ca0-8636-3657dda49a39" />
+
+
+<img width="576" height="267" alt="image" src="https://github.com/user-attachments/assets/a4939cea-2b38-4abc-b581-87ba4423da1c" />
 ## BLOCK DIAGRAM
 
 <img width="1189" height="704" alt="Screenshot 2025-11-11 190114" src="https://github.com/user-attachments/assets/08881b61-42f8-4e62-95b9-13ff3e4be597" />
